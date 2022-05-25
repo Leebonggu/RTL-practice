@@ -87,5 +87,3 @@ pnpm add -D @testing-libaray/react
 ## userEvent, FireEvent
 
 - userEvent: fireEvent를 사용해서 만들어진 것.  Element의 타입에 따라 적절한 반응을 보여준다. 실제 유저가 클릭하는 행위를 더 잘 표현되도록 하는 방법이다.
-
-## let revert
